@@ -36,6 +36,9 @@ satFallbackDelta=70:0:0:0|70:0:0:0
 enableFDFullStreamDimension=FALSE
 enableSatZoomingButton=TRUE
 
+#Resort the sensor data
+enableResortSensorData=TRUE
+
 #TOF
 enableTOFInterface=TRUE
 customTOFSensorLib=vendor/lib64/vl53l5.hal@1.0.so
